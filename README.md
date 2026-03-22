@@ -218,10 +218,6 @@ Shard 均匀分配，最小迁移策略（优化版）
 
 ## 🧪 测试情况
 
-- ✔ Lab 1: RPC & 基础组件
-- ✔ Lab 2: Raft（A/B/C）全部通过
-- ✔ Lab 3: KVServer（A/B）通过
-- ✔ Lab 4: ShardKV 通过
 - ✔ 50 次压力测试稳定通过
 
 ---
